@@ -36,18 +36,6 @@ export const CertificationItem = ({
         <Reveal>
           <span className={styles.school}>{school}</span>
         </Reveal>
-        {/* <Reveal>
-          <a
-            href={link}
-            className={styles.certificate}
-            target="_blank"
-            rel="nofollow"
-            title="View Certificate"
-            aria-label="View Certificate"
-            >
-            {t("certificate")}
-          </a>
-        </Reveal> */}
       </div>
       <Reveal>
         <p className={styles.description}>{description}</p>
