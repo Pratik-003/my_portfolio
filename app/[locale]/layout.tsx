@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://fvukelic.com"),
+  metadataBase: new URL("https://pratikmaharana.site/"),
   title: "Pratik Maharana",
   description:
     "Full-stack developer skilled in Next.js/React and a versatile tech stack, also offering WordPress site development for small businesses.",
