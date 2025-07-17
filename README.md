@@ -37,8 +37,6 @@
 
 👉 **Fully Functional Search**: Allows users to find my projects easily using various search criteria.
 
-👉 **Bilingual Support**: Seamless switching between English and French, offering a fully localized experience.
-
 👉 **Galery Filter**: Filter the gallery by tags, enhancing the experience by allowing quick access to specific projects.
 
 
