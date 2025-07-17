@@ -136,14 +136,6 @@ const projects = [
         authentication using Clerk, ensuring a safe and personalized user
         experience.
         <br />
-        <br />
-        🥐 Une plateforme SaaS d'IA qui permet aux utilisateurs de créer,
-        découvrir et écouter des podcasts avec des fonctionnalités avancées
-        telles que la conversion texte-en-audio utilisant une IA multi-voix
-        alimentée par l'API OpenAI, la génération d'images miniatures de
-        podcasts et une lecture fluide. La plateforme inclut une
-        authentification sécurisée utilisant Clerk, garantissant une expérience
-        utilisateur sûre et personnalisée.
       </>
     ),
   },
@@ -163,13 +155,6 @@ const projects = [
         I've added a touch of dynamism with smooth animations and transitions,
         creating an engaging user experience.
         <br />
-        <br />
-        🥐 Ce portfolio est une vitrine de mes compétences, conçu avec React et
-        propulsé par Next.js. J'ai mis à profit TypeScript pour assurer une
-        qualité de code robuste et maintenable. Un système de styling conçu avec
-        Sass donne vie à une identité visuelle soignée. Et, avec Framer Motion
-        et Anime.js, j'ai ajouté une touche de dynamisme avec des animations et
-        des transitions fluides, créant une expérience utilisateur engageante.
       </>
     ),
   },
