@@ -31,10 +31,6 @@
 
 - [**Anime.js**](https://animejs.com/documentation/) is a versatile JavaScript animation library, offering a wide range of features including keyframes, timelines, and easing functions to create complex animations. Anime.js provides a simple and powerful API for creating dynamic, visually appealing animations, making it a popular choice for developers and designers alike.
 
-- [**i18n**](https://www.i18next.com/) is a robust internationalization framework for JavaScript, enabling seamless localization of applications by managing translations, language detection, and formatting. With its flexible API, i18n supports dynamic content translation, making it ideal for applications that need to cater to multiple languages.
-
-- [**next-intl**](https://next-intl-docs.vercel.app/docs/) is a powerful localization library for Next.js, designed to handle translations and internationalization with ease. It offers server-side and client-side rendering of localized content, language detection, and flexible formatting options, allowing developers to build multilingual applications with minimal setup and effort.
-
 ## <br/> <a name="features">📝 Features</a>
 
 👉 **Responsive Design**: Fully functional and visually appealing across all devices and screen sizes.
